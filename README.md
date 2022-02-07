@@ -10,7 +10,7 @@ Speaking of, If you wanna join my discord server, here's the link: [Army Gang](h
 I think my other favorite project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users. It also has a crap ton of features I put into it
 
 ## Things about me!
- - I'm from Canada. 
+ - I'm from Canada. 🍁
  - I'm currently learning/experimenting with RESTful Web APIs. (HOW HAVE I NEVER USED THESE BEFORE)
  - I'm currently working on Kirbo-Bot.
  - Ask me about anything, you can reach me in my discord server, (I'm Titan, the friendly neighbourhood admin) 
