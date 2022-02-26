@@ -11,7 +11,7 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
 
 ## Things about me!
  - I'm from Canada. 🍁
- - I'm currently learning/experimenting with RESTful Web APIs. (HOW HAVE I NEVER USED THESE BEFORE)
+ - I'm currently learning/experimenting with WinUI2.7 and UWP. (Pretty cool, I'm also waiting for WinUI3 to be better)
  - I'm currently working on Kirbo-Bot.
  - Ask me about anything, you can reach me in my discord server, (I'm Titan, the friendly neighbourhood admin) 
  - If you don't have discord, you can also reach me at untoldtitan3k@gmail.com.
