@@ -1,4 +1,4 @@
-### Hi there I'm Titan. 
+### Hi there, I'm Titan. 
 
 I am a Software Developer Intern at Arcurve.
 This github account has all of my development projects I have created/worked on. 
