@@ -18,6 +18,9 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
  - Pronous: He/Him
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spider man. My favorite (non-mythic/legendary) pokemon is Sylveon, and Rayquaza. 
 
+## Are you here from the lab? if so, here's the directory of the projects featured there:
+
+
 <!--
 **cataclysm-interactive/Cataclysm-Interactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
