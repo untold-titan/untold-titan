@@ -10,8 +10,8 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
 
 ## Things about me!
  - I'm from Canada. 🍁
- - I'm currently learning/experimenting with WinUI2.7 and UWP. (Pretty cool, I'm also waiting for WinUI3 to be better)
- - I'm currently working on Kirbo-Bot.
+ - I'm currently working on Web development with Reactjs and Svelte. (I like Svelte better)
+ - I'm also working on moving my custom backend that I created, (cataclysmAPI) and moving it to Firebase so I have less code to maintain
  - Ask me about anything, you can reach me in my discord server, (I'm Titan, the friendly neighbourhood admin) 
  - If you don't have discord, you can also reach me at untoldtitan3k@gmail.com.
  - Pronous: He/Him
