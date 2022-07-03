@@ -12,7 +12,7 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
  - I'm from Canada. 🍁
  - I'm currently working on Web development with Reactjs and Svelte. (I like Svelte better)
  - I'm also working on moving my custom backend that I created, (cataclysmAPI) and moving it to Firebase so I have less code to maintain
- - Ask me about anything, you can reach me in my discord server, (I'm Titan, the friendly neighbourhood admin) 
+ - Ask me about anything, you can reach me in my discord server,[Army Gang](https://discord.gg/Muaepz4u9G) (I'm Titan, the friendly neighbourhood admin) 
  - If you don't have discord, you can also reach me at untoldtitan3k@gmail.com.
  - Pronous: He/Him
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spider man. My favorite (non-mythic/legendary) pokemon is Sylveon, and Rayquaza. 
