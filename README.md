@@ -1,7 +1,6 @@
 ### Hi there, I'm Titan. 
 
 I am a Software Developer Intern at Arcurve.
-This github account has all of my development projects I have created/worked on. 
 
 ## Some of my favorite projects?
 I think my favorite project I've done on this Github is probably Kirbo-Bot. Its a discord bot I made for me and friends to play around with in our discord.
