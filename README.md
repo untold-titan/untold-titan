@@ -19,7 +19,7 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
 
 ## Are you here from the lab? if so, here's the directory of the projects featured there:
 
-[](https://github-readme-stats-rongronggg9.vercel.app/api?username=cataclysm-interactive&count_private=true&include_all_commits=true&show_icons=true)
+![](https://github-readme-stats-rongronggg9.vercel.app/api?username=cataclysm-interactive&count_private=true&include_all_commits=true&show_icons=true)
 <!--
 **cataclysm-interactive/Cataclysm-Interactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
