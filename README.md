@@ -16,6 +16,7 @@ I use a stack I created myself! It's called STFN (Pronounced stefan)!
  - Tailwind - T
  - Firebase - F
  - Node.js - N
+ -
 This stack is VERY minimal, and is basically just a framework for all my projects. Each project I make will have some variation of STFN, but it'll be the same at the core.
 
 ## Things about me!
