@@ -8,6 +8,16 @@ Speaking of, If you wanna join my discord server, here's the link: [Army Gang](h
 
 I think my other favorite project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users. It also has a crap ton of features I put into it
 
+## My tech stack
+I use a stack I created myself! It's called STFN (Pronounced stefan)!
+
+### Whats in the stack?
+ - Svelte - S
+ - Tailwind - T
+ - Firebase - F
+ - Node.js - N
+This stack is VERY minimal, and is basically just a framework for all my projects. Each project I make will have some variation of STFN, but it'll be the same at the core.
+
 ## Things about me!
  - I'm from Canada. 🍁
  - I'm currently working on Web development with Reactjs and Svelte. (I like Svelte better)
