@@ -1,6 +1,8 @@
 ### Hi there, I'm Titan. 
 
-I am a Software Developer Intern at Arcurve.
+I am a Summer Student at Arcurve.
+
+![](https://github-readme-stats-rongronggg9.vercel.app/api?username=cataclysm-interactive&count_private=true&include_all_commits=true&show_icons=true)
 
 ## Some of my favorite projects?
 I think my favorite project I've done on this Github is probably Kirbo-Bot. Its a discord bot I made for me and friends to play around with in our discord.
@@ -30,7 +32,7 @@ This stack is VERY minimal, and is basically just a framework for all my project
 
 ## Are you here from the lab? if so, here's the directory of the projects featured there:
 
-![](https://github-readme-stats-rongronggg9.vercel.app/api?username=cataclysm-interactive&count_private=true&include_all_commits=true&show_icons=true)
+
 <!--
 **cataclysm-interactive/Cataclysm-Interactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
