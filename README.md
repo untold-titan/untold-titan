@@ -1,3 +1,10 @@
+# Hi, I'm Titan!
+I develop software both as a professional, and as a freelance dev. I'm primarily a front-end developer, but I have experience as a full stack developer. 
+[![Social Media Icons](https://skillicons.dev/icons?i=discord,linkedin)](https://skillicons.dev)
+Feel free to contact me at untoldtitan3k@gmail.com, or via discord: Untold_Titan#8912
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,azure,blender,cs,dart,dotnet,firebase,flutter,git,netlify,react,svelte,tailwind,unity,vscode,vite)](https://skillicons.dev)
+## Github Stats
 ![](https://github-readme-stats-rongronggg9.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
 
 # Some of my favorite projects?
@@ -6,22 +13,12 @@ Speaking of, If you wanna join my discord server, here's the link: [Army Gang](h
 
 I think my other favorite project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users. It also has a crap ton of features I put into it. [Baller on Google Play](https://play.google.com/store/apps/details?id=com.PentagonGames.Baller)
 
-# Currently Active Projects
-Check this: [Projects](https://github.com/users/untold-titan/projects/5/views/1)
-
-# What I'm learning right now
-I'm currently looking into more web development libraries, and I'm looking into lower level languages, and how to implement them around me. (C and C++)
-
-# My tech stack
-I flip flop around with different tech stacks, depending on what the project requires. 
-
 # Things about me!
  - I'm from Canada. 🍁
- - I'm also working on moving my custom backend that I created, (cataclysmAPI) and moving it to Firebase so I have less code to maintain
  - Ask me about anything, you can reach me in my discord server, [Army Gang](https://discord.gg/Muaepz4u9G) (I'm Titan, the friendly neighbourhood admin) 
- - If you don't have discord, you can also reach me at untoldtitan3k@gmail.com.
  - Pronous: He/Him
- - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Sylveon, and my favorite legendary is Rayquaza. 
+ - I have spent a LOT of time playing video games, but probably I've probably spent more time programming. 
+ - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Iron Valiant, followed by sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza. 
 
 
 <!--
