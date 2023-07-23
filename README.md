@@ -3,7 +3,7 @@ I develop software both as a professional, and as a freelance dev. I'm primarily
 ---
 Feel free to contact me at untoldtitan3k@gmail.com, or via discord: Untold_Titan#0001
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,react,tailwind,netlify,firebase,flutter,dart,cs,dotnet,git,unity,blender,docker,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,react,tailwind,netlify,firebase,flutter,dart,cs,blazor,dotnet,git,unity,blender,docker,azure)](https://skillicons.dev)
 ## Github Stats
 ![](https://github-readme-stats-rongronggg9.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
 
