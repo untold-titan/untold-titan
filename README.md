@@ -17,7 +17,8 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
  - I'm from Canada. 🍁
  - Ask me about anything, you can reach me in my discord server, [Army Gang](https://discord.gg/Muaepz4u9G) (I'm Titan, the friendly neighbourhood admin) 
  - Pronous: He/Him
- - I have spent a LOT of time playing video games, but probably I've probably spent more time programming. 
+ - I have spent a LOT of time playing video games.
+ - Favorite video games? Portal 2 and Destiny 2. 
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Iron Valiant, followed by sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza. 
 
 
