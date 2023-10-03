@@ -1,7 +1,7 @@
 # Hi, I'm Titan!
 I develop software both as a professional, and as a freelance dev. I'm primarily a front-end developer, but I have experience as a full stack developer. 
 ---
-Feel free to contact me at untoldtitan3k@gmail.com, or via discord: Untold_Titan#0001
+Feel free to contact me at untoldtitan3k@gmail.com, or via discord: untoldtitan
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,svelte,react,tailwind,netlify,firebase,flutter,dart,cs,dotnet,git,unity,blender,docker,azure)](https://skillicons.dev)
 ## Github Stats
