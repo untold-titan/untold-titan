@@ -18,9 +18,8 @@ I think my other favorite project is Baller. It's my first ever mobile game I ma
 # Things about me!
  - I'm from Canada. 🍁
  - Pronous: He/Him
- - Favorite video games? Portal 2 and Destiny 2. 
+ - Favorite video games? Portal 2, Destiny 2 and Cyberpunk 2077
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Iron Valiant, followed by Sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza.
- - Current GOTY nominee? Baldur's Gate 3.
 
 
 <!--
