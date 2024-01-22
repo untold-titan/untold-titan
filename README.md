@@ -10,17 +10,16 @@ Feel free to contact me at untoldtitan3k@gmail.com, or via discord: untoldtitan
 # Some of my favorite projects?
 I think my favorite project I've worked on is Agito, which was a dungeons and dragons character sheet made with Flutter and Dart.
 Similar to that, I made a mod manager for Bonelab in Flutter.
+I also created a multiplayer game inspired by No Man's Sky, and uses WebSockets to communicate with a server and multiple clients. (This was my final project for Computer Science)
 
 I also have developed an entire trading card store for the web, to sell off all my excess Tim Hortons trading cards.
 
-I think my other favorite project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users. It also has a crap ton of features I put into it. [Baller on Google Play](https://play.google.com/store/apps/details?id=com.PentagonGames.Baller)
+I think another really cool project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users. It also has a crap ton of features I put into it. [Baller on Google Play](https://play.google.com/store/apps/details?id=com.PentagonGames.Baller) (It may not show up since I haven't worked on supporting it since 2021)
 
 # Things about me!
  - I'm from Canada. 🍁
- - Pronous: He/Him
  - Favorite video games? Portal 2, Destiny 2 and Cyberpunk 2077
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Iron Valiant, followed by Sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza.
-
 
 <!--
 **cataclysm-interactive/Cataclysm-Interactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
