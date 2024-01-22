@@ -1,5 +1,5 @@
 # Hi, I'm Mitchell!
-I develop software both as a professional, and as a freelance dev. I'm a Full-Stack Developer studying Software Development at SAIT
+I'm a Full-Stack Developer studying Software Development at SAIT
 ---
 Feel free to contact me at untoldtitan3k@gmail.com, or via discord: untoldtitan
 ## My Skills
