@@ -12,11 +12,14 @@ I also created a multiplayer game inspired by No Man's Sky, and uses WebSockets 
 
 I also have developed an entire trading card store for the web, to sell off all my excess Tim Hortons trading cards.
 
-I think another really cool project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users. It also has a crap ton of features I put into it. [Baller on Google Play](https://play.google.com/store/apps/details?id=com.PentagonGames.Baller) (It may not show up since I haven't worked on supporting it since 2021)
+I think another really cool project is Baller. It's my first ever mobile game I made, using Unity and C#. Its really cool, and at it's peak, it had 50 users.
+I'm thinking of making a Baller 2, thats possibly 3D, or just a better version of the original
 
 # Things about me!
  - I'm from Canada. 🍁
  - Favorite video games? Portal 2, Destiny 2 and Cyberpunk 2077
+ - I enjoy participating in hackathons!
+ - My favorite music genre is EDM/Techno. Favorite artists would be: 1. Bad Computer 2. Camellia 3. Alan Walker
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Iron Valiant, followed by Sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza.
 
 <!--
