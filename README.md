@@ -1,7 +1,6 @@
 # Hi, I'm Mitchell!
 I'm a Full-Stack Developer studying Software Development at SAIT
 ---
-Feel free to contact me at untoldtitan3k@gmail.com
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,svelte,react,netlify,firebase,flutter,dart,cs,dotnet,git,unity,blender,docker,azure,python&theme=dark)](https://skillicons.dev)
 ## Github Stats
