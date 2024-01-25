@@ -1,5 +1,5 @@
 # Hi, I'm Mitchell!
-I'm a Full-Stack Developer studying Software Development at SAIT
+I'm a Full-Stack Developer studying Software Development at the Southern Alberta Institute of Technology (SAIT)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,svelte,react,netlify,firebase,flutter,dart,cs,dotnet,git,unity,blender,docker,azure,python&theme=dark)](https://skillicons.dev)
 ## Github Stats
