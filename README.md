@@ -1,7 +1,7 @@
 # Hi, I'm Mitchell!
 I'm a Full-Stack Developer studying Software Development at the Southern Alberta Institute of Technology (SAIT)
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,firebase,flutter,dart,dotnet,git,unity,blender,azure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,firebase,flutter,dart,dotnet,git,unity,blender,azure,vscode&theme=dark)](https://skillicons.dev)
 ## Github Stats
 ![](https://github-readme-stats-rongronggg9.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
 
