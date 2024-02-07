@@ -18,6 +18,7 @@ I'm thinking of making a Baller 2, thats possibly 3D, or just a better version o
 # Things about me!
  - I'm from Canada. 🍁
  - Favorite video games? Portal 2, Destiny 2 and Cyberpunk 2077
+ - I also really like Persona 3 Reload and Persona 5 Royal. My current profile pic is of the main character from Persona 3
  - I enjoy participating in hackathons!
  - My favorite music genre is EDM/Techno. Favorite artists would be: 1. Bad Computer 2. Camellia 3. Alan Walker
  - Fun fact, I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Spiderman. My favorite (non-mythic/legendary) pokemon is Iron Valiant, followed by Sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza.
