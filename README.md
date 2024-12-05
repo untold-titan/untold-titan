@@ -3,7 +3,7 @@ I'm a Full-Stack Developer studying Software Development at the Southern Alberta
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,firebase,flutter,dart,dotnet,git,unity,blender,azure,nodejs,bun&theme=dark)](https://skillicons.dev)
 ## Github Stats
-![](https://github-readme-stats-rongronggg9.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
 
 # Some of my favorite projects?
 I think my favorite project I've worked on is Agito, which was a dungeons and dragons character sheet made with Flutter and Dart.
