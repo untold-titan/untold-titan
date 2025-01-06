@@ -4,6 +4,7 @@ I'm a Full-Stack Developer studying Software Development at the Southern Alberta
 [![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,firebase,flutter,dart,dotnet,git,unity,blender,azure,nodejs,bun,android&theme=dark)](https://skillicons.dev)
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
+
 (Note on the stats, they dont include private repos, and I have a LOT of private repos :) )
 # My Career
 I've worked professionally as a software developer for about 2 years now, in a variety of different project and team sizes.
