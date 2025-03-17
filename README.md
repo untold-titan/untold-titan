@@ -1,7 +1,7 @@
 # Hi, I'm Mitchell!
-I'm a Full-Stack Developer studying Software Development at the Southern Alberta Institute of Technology (SAIT)
+I'm a Full-Stack Developer studying Software Development at the Southern Alberta Institute of Technology (SAIT), and the Lead Developer at Telos One.
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,firebase,flutter,dart,dotnet,git,unity,blender,azure,android&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,docker,flutter,dart,dotnet,git,unity,blender,azure&theme=dark)](https://skillicons.dev)
 ## Github Stats
 ![](https://githubreadme-three.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
 # My Career
@@ -27,7 +27,7 @@ Baller was on the Google Play store, up until the requirements changed, and Goog
  - I'm from Canada. 🍁
  - Favorite video games? Portal 2, Destiny 2 and Cyberpunk 2077
  - I enjoy participating in hackathons!
- - My favorite music genre is EDM/Techno. Favorite artists would be: 1. DECO*27 2. Embark Studios 3. Bad Computer
+ - My favorite music genre is EDM/Techno. Favorite artists would be: 1. DECO*27 2. KIRA 3. Bad Computer 4. GIGA 5. Embark Studios
  - I love Marvel and Pokemon. My favorite superhero is Iron man, followed by Gwen-Pool. My favorite (non-mythic/legendary) pokemon is Iron Valiant (specifically the shiny variant), followed by Sylveon (I love gen 4 and 9), and my favorite legendary is Rayquaza.
 
 
