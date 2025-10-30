@@ -2,8 +2,7 @@
 I'm a Full-Stack Developer studying Software Development at the Southern Alberta Institute of Technology (SAIT), and the Lead Developer at Telos One.
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,docker,flutter,dart,dotnet,git,unity,blender,azure&theme=dark)](https://skillicons.dev)
-## Github Stats
-![](https://githubreadme-three.vercel.app/api?username=untold-titan&count_private=true&include_all_commits=true&show_icons=true)
+
 # My Career
 I've worked professionally as a software developer for about 2 years now, in a variety of different project and team sizes.
 
