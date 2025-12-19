@@ -1,5 +1,5 @@
 # Hi, I'm Mitchell!
-I'm a Full-Stack Developer studying Software Development at the Southern Alberta Institute of Technology (SAIT), and the Lead Developer at Telos One.
+I'm the Lead Developer at Telos One.
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,java,cs,svelte,react,python,netlify,docker,flutter,dart,dotnet,git,unity,blender,azure&theme=dark)](https://skillicons.dev)
 
